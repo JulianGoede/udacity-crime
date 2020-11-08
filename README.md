@@ -1,5 +1,7 @@
 Project is part of the curriculum of Udacity's data streaming course.
 
+
+Uncompress the producer data file `police-department-calls-for-service.json.gz`.  
 Run  `docker-compose up -d` to start up kafka,console producer and spark structured streaming.
 
 In order to inspect the kafka-console-output from `kafka_server.py` simply
