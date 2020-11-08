@@ -1,0 +1,7 @@
+findspark
+pyspark
+python-dateutil
+pathlib
+kafka-python
+confluent_kafka
+tornado
